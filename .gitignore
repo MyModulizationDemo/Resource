@@ -1,0 +1,7 @@
+MyResource.xcodeproj/xcuserdata/
+MyResource.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+MyResource.xcodeproj/project.xcworkspace/xcuserdata/
